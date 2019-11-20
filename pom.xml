@@ -11,6 +11,7 @@
     <modules>
         <module>springboot-restful-example</module>
         <module>springboot-dynamicdata</module>
+        <module>Springboot-dynamic-task</module>
     </modules>
 
 
